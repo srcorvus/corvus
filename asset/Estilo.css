@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@200&family=Merriweather&display=swap');
+
+body{background-color: rgb(48, 48, 48);
+    margin: 0;
+}
+main{
+    margin-top:20px ;
+    margin-left:80px ;
+    margin-bottom:unset ;
+    margin-right:350px ;
+}
+h1{
+    font-family: 'Merriweather', serif;  
+    color: rgb(0, 0, 0);
+    font-size:36px;
+    margin-right: 100px;
+}
+h2{
+    margin-left: 200px;
+    font-size: 34px;
+    color: rgb(0, 0, 0);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.simbol{
+    height: 12px;
+}
+.logo{
+    width: 200px; height:111,47px;
+    padding-top: 14px;
+    margin-top: 30px;
+    margin-left: 80px;
+    
+  }
+#autor{
+    float: left;
+    font-size: 18px;
+
+
+}  
+#fecha{
+    float:right;
+    font-size: 12px;
+    color: rgb(94, 94, 94);
+    margin-top:30px ;
+}
+#envoltorio{
+    background-color: #ffffff;
+    width:initial;
+    margin-top:unset;
+    margin-left:0px;
+    margin-bottom: auto;
+    margin-right:0px;
+    padding: 8px;}
+#pies{
+        background-color: #962121;
+        width:initial;
+        margin-top:unset;
+        margin-left:0px;
+        margin-bottom:unset;
+        margin-right:0px;
+        padding: 8px;}
+
+#headerafter{
+      background-color: rgb(245, 83, 24);
+      height: 5px;
+      box-sizing: border-box;
+      width: 1108px;
+      margin-left: 80px;
+      margin-right: 0;
+      float:center;
+        }
+        
+        
+
+.sizeimg{
+    
+    margin-left: 150px;
+    max-width: 80%;
+
+
+
+}  
+.textopunteado{
+    border-bottom:1px dotted rgb(100, 100, 100) ;
+    letter-spacing: 1.6px;
+    text-align:left;
+    text-transform: uppercase;
+    font-size:10.4px;  
+    color: rgb(100, 100, 100);
+    margin-top: 1px;
+    margin-bottom: 0px;
+    margin-left: 150px;
+    margin-right: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+.textoali{
+    text-align: right;
+    text-transform: uppercase;
+    font-size:10.6px;  
+    color: rgb(100, 100, 100);
+    margin-top: 1px;
+    margin-bottom: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+      
+#destacado{
+    background-color: rgba(255, 99, 71, 0.39);
+    width: 185;
+    height: 811;
+   font-size: 20.8px;
+   font-family: 'Martel', serif;
+font-family: 'Merriweather', serif;
+   padding: 20px 100px 20px 40px;
+  margin-left: 165px;
+  margin-right:unset;
+  margin-top: 0;
+
+}
+.ptex{
+    line-height:27.2px;
+    margin-left: 200px;
+    margin-right: 123px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
